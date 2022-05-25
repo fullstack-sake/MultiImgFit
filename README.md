@@ -7,7 +7,7 @@
 功能：**实现将大量图片按色块拟合拼接为指定的大图**
 
 示例：
-![2](https://raw.githubusercontent.com/fullstack-sake/MultiImgFit/main/doc/example.png)
+![2](http://gchat.qpic.cn/gchatpic_new/0/530077417-0-F4A3A40C2E797103D8B8982068495B90/0)
 
 
 > ## 使用手册
@@ -16,7 +16,7 @@
 
 运行 `python main.py [-h] [--i I] [--o O] [--s S] [--M M] [--N N] [--n N]`
 
-![1](https://raw.githubusercontent.com/fullstack-sake/MultiImgFit/main/doc/example2.png)
+![1](http://gchat.qpic.cn/gchatpic_new/0/530077417-0-8D7D4C86364218C4FAB4763FA5FC321E/0)
 
 参数含义：（带有--的参数为可选参数）
 
