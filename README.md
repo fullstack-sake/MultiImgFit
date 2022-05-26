@@ -7,7 +7,7 @@
 功能：**实现将大量图片按色块拟合拼接为指定的大图**
 
 示例：
-![2](http://gchat.qpic.cn/gchatpic_new/0/530077417-1-F4A3A40C2E797103D8B8982068495B90/0)
+![2](http://gchat.qpic.cn/gchatpic_new/0/530077417-1-CF0939E34DE343B4039EA4B84B6C0AB3/0)
 
 
 > ## 使用手册
